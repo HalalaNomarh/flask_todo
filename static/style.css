@@ -1,0 +1,11 @@
+body{
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+div{
+    border: solid paleturquoise 2px;
+    width: 400px;
+}
